@@ -1,0 +1,75 @@
+/* nav */
+nav{
+    position: fixed;
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+
+.navTitle {
+    position: fixed;
+}
+
+
+/*landing section*/
+.bodyTitle{
+    text-align: center;
+}
+
+
+#landingimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90%;
+    width: 90%;
+    padding-top: 50px;
+}
+
+p{
+    
+}
+
+
+/* rest of page */
+.img2 {
+    height: 50%;
+    width: 50%;
+    padding-left: 30px;
+}
+
+table{ 
+    border-spacing: 7px; 
+    text-align: left;
+}
+
+
+table:hover { 
+    background-color: lightgray; 
+    border: thin solid;
+}
+
+table thead:hover { 
+    background-color: gray; 
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+
+
+/*columns - layout */
+.section {    
+    width: 70%;
+    float: right;
+    background-color:lightsteelblue;
+    /*text-indent: 30px;*/
+}
