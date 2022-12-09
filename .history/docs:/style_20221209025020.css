@@ -10,18 +10,6 @@ nav{
     position: fixed; 
 }
 
-.myName{
-    position: fixed; 
-    padding-top: 3.5%;
-}
-
-#blogLogo{
-    position: fixed;
-    width: 17%;
-    height: 30%;
-    float: left;
-    margin-top: 6%;
-}
 
 /*landing section*/
 .bodyTitle{

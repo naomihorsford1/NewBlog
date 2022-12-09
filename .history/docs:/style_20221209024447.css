@@ -10,18 +10,6 @@ nav{
     position: fixed; 
 }
 
-.myName{
-    position: fixed; 
-    padding-top: 3.5%;
-}
-
-#blogLogo{
-    position: fixed;
-    width: 17%;
-    height: 30%;
-    float: left;
-    margin-top: 6%;
-}
 
 /*landing section*/
 .bodyTitle{
@@ -43,26 +31,20 @@ nav{
 
 
 /* rest of page */
-#logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 50px;
-}
-
 .photos{
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 90%;
     width: 90%;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 .photosTables{
-    padding-top: 30px;
-    height: 100%;
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90%;
+    width: 90%;
 }
 
 
@@ -71,7 +53,7 @@ label{
 }
 
 .tableLabel{
-    margin-left: 0% !important;
+    margin
 }
 
 
